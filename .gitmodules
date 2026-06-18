@@ -1,0 +1,3 @@
+[submodule "child folder"]
+	path = child folder
+	url = https://github.com/saranyamanupati/CHILD_MAY26.git
